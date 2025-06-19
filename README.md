@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 - **Programming:** Python (Pandas), SQL
 - **Data Visualization:** Tableau, Power BI, Excel
 - **Statistics:** Hypothesis Testing and Data Cleaning
-- **Other:** Jupyter Notebooks
+- **Other:** Panda Notebooks
 
 ---
 
