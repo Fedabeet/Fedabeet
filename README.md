@@ -43,6 +43,7 @@ Welcome to my GitHub profile!
 ## 📫 Connect with Me
 
 - [Email](#) <!-- sweet_sekseka@hotmail.com -->
+- https://sites.google.com/view/datasalma/home
 
 ---
 
